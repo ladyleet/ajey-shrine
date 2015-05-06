@@ -7,10 +7,11 @@ brown 100 #D7CCC8
 brown 500 #795548 - accent
 */
 .module {
-  background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/3/skyscrapers.jpg);
+  background: url(../images/ajeymainimage.jpg);
+  background-size: 100%;
   background-attachment: fixed;
-  width: 400px;
-  height: 300px;
+  width: 2000px;
+  height: 500px;
   position: relative;
   overflow: hidden;
   margin: 20px;
